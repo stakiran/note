@@ -1,1 +1,2 @@
 # note
+GitHub Issues でめもをとるこころみ。
